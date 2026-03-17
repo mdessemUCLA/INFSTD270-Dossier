@@ -1,3 +1,4 @@
 <b>Specialization Dossier: Map the Ecological Landscape of LIS Work</b>
 <p>Systems and Infrastructures – IS 270 | Final Assignment</p>
 <p>by Emily Popejoy, Isabella New-Walker, Lola Wegman, and Matthew Dessem</p>
+<p>Our group looked into the current landscape for digital asset management and preservation jobs in digital archiving. To learn more about this aspect of the LIS field, we interviewed Linda Tadic, the CEO and founder of Digital Bedrock, a firm that offers digital preservation services to clients including film studios, artists and filmmakers, GLAM institutions, government agencies, and personal archives. Presented through our website, this dossier expands upon Tadic's unique perspective as an employer to provoide a deeper look into the growing presence of DAM jobs in the LIS sphere.</p>
