@@ -82,7 +82,7 @@ body {
 .sidenav a {
   padding: 6px 8px 6px 16px;
   text-decoration: none;
-  font-size: 18px;
+  font-size: 20px;
   font-family: CenturySupraACaps, serif;
   color: #000000;
   display: block;
@@ -113,6 +113,7 @@ p {
 h1 {
     font-family: CenturySupraACaps, serif;
     text-align: center;
+    font-size: 1.7rem;
 }
 
 h2 {
@@ -121,9 +122,29 @@ h2 {
 
 h3 {
     font-family: CenturySupraACaps, serif;
+    font-size: 1rem;
+}
+
+h4 {
+    font-family: CenturySupraACaps, serif;
+    font-size: 0.7rem;
+}
+
+table, th, td {
+  border: 1px solid;
+  padding: 1px;
+  font-family: CenturySupraACaps, serif;
+  font-size: 0.7rem
+}
+
+li {
+    margin-bottom: 0.5em;
+    font-size: 0.75rem;
 }
 
 img {
   max-width: 100%;
   height: auto;
+  align: center;
+  border: 1;
 }
